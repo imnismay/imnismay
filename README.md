@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Mayur+Dammannanavar;Welcome+to+NISMAY+Studios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Mayur+Dammannanavar;Welcome+to+NISMAY+Studios;Cyber+Security+Intern+%40+GT%26TC" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,20 +16,40 @@
 
 <br>
 
-<h3 align="center">👨‍💻 Developer | 🤖 AI Enthusiast | Cyber Security Intern</h3>
+<h3 align="center">👨‍💻 BE (CSE) Student | 🔐 Cyber Security Intern | 🤖 AI Developer</h3>
 
 <p align="center"> 
-  I turn <b>"vibe coding"</b> into deployable software. Currently focusing on <b>AI Agents</b>, <b>Cyber Security</b>, and building tools for <b>Navodaya Institute of Technology</b>.
+  I am a Computer Science student at <b>Navodaya Institute of Technology</b>. Under the banner of <b>NISMAY Studios</b>, I build secure web portals, autonomous AI agents, and creative digital experiences.
 </p>
 
 ---
 
-### 🧐 About Me
+### 🚀 Experience & Highlights
 
-- 🔭 **I’m currently working on:** [FinBot](https://github.com/imnismay/FinBot) (AI Finance Assistant) & [AskAstra](https://github.com/imnismay/AskAstra).
-- 👯 **I’m collaborating on:** The Student Mentoring Portal for my college.
-- 🌱 **I’m currently learning:** Cyber Security Defense (at GT&TC) & Autonomous AI Agents.
-- ⚡ **Fun fact:** I once designed a "Vibe Coding" workshop to teach digital media to first-year students!
+- **💼 Internship:** Currently working as a **Cyber Security Intern** at **Govt Tool Room and Training Centre (GT&TC)**, Kalaburagi (Dec 2025 - Present).
+- **🎓 Certification:** Completed the **5-Day AI Agents Intensive Course** with Google.
+- **🏆 Leadership:** Organized the **"Technical Treasure Hunt"** event at Navodaya Institute, designing QR-code based clues.
+- **👨‍🏫 Teaching:** Designed and led a **"Vibe Coding"** workshop to teach creative digital media to first-year students.
+
+---
+
+### 🔭 Project Showcase
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **FinBot** | *Major Project:* An AI financial assistant for analyzing market trends. | Python, Streamlit, Gemini API |
+| **Student Mentoring Portal** | A dedicated platform for student-faculty interaction at Navodaya. | React, TypeScript, Tailwind |
+| **V Academy Gallery** | A photo gallery site migrated to serverless hosting. | React, Cloudflare Pages |
+| **AI Resume Analyzer** | Scans resumes against JDs to suggest improvements. | Flask, Gemini API |
+| **Auto NewsRoom Agent** | An autonomous system for aggregating and summarizing news. | Python, AI Agents |
+
+---
+
+### 🌱 What I'm Currently Working On
+
+- **NISMAY Studios Portfolio:** Building a unique **Terminal-style** personal website to showcase my developer journey.
+- **Cloud Deployments:** Experimenting with **Budget VPS** hosting and **Cloudflare Pages** for serverless React apps.
+- **Parallel Computing:** Optimizing C code using **OpenMP and MPI** for high-performance tasks.
 
 ---
 
@@ -44,45 +64,24 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h4 align="left">Backend, AI & Languages</h4>
+<h4 align="left">Backend, AI & HPC</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_(OpenMP%2FMPI)-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-<h4 align="left">Tools & Hosting</h4>
+<h4 align="left">Tools & Deployment</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imnismay&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
-### 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnismay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnismay&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnismay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imnismay&label=Profile%20Views&color=0e75b6&style=flat-square" alt="imnismay" />
